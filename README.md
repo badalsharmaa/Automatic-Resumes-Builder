@@ -4,7 +4,6 @@ Web based editor to create Resume in a customizable template with the facility t
 
 ###### Technologies: HTML, CSS, JavaScript
 
-
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
 #### Features
@@ -17,15 +16,19 @@ Web based editor to create Resume in a customizable template with the facility t
 
 **Note** : Use Google Chrome
 
-#Home Page :
+Home Page:
+
 ![image](https://user-images.githubusercontent.com/71165326/195853989-e5add829-22b2-49f8-929b-d381f660ed68.png)
 
-#1st Resume Layout :
+1st Resume Layout:
+
 ![image](https://user-images.githubusercontent.com/71165326/195854201-156384e4-3134-464a-8154-2d6b691b7606.png)
 
-#2nd Resume Layout :
+2nd Resume Layout:
+
 ![image](https://user-images.githubusercontent.com/71165326/195854266-efdb1aea-b643-493e-b63e-aebc0fbdc002.png)
 
-#3rd Resume Layout :
+3rd Resume Layout:
+
 ![image](https://user-images.githubusercontent.com/71165326/195854309-a9810589-73b9-4c3b-aad6-e0c0c32f16f9.png)
 
