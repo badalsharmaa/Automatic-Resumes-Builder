@@ -4,7 +4,7 @@ Web based editor to create Resume in a customizable template with the facility t
 
 ###### Technologies: HTML, CSS, JavaScript
 
-**Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
+
 
 #### Features
 - Resume content can be edited just like a normal document editor (cut,copy,undo etc).
